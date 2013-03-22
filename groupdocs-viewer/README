@@ -1,0 +1,17 @@
+======================================
+ Groupdocs Viewer Module 1.0.0 For SilverStripe
+======================================
+Developed and maintained by GroupDocs Team
+  plugin_support@groupdocs.zendesk.com
+======================================
+
+Installation:
+- Extract groupdocs-viewer folder to your site root
+- Start rebuild process from http://yoursite/dev/build/
+
+How to use:
+- You can use shortcode like
+[groupdocsViewer width=500 height=800]b3360d808828ad02ad1362e2e77d9d59720236f45db6fe174b87fc24337z0f4r[/groupdocsViewer]
+default width = 600
+default height = 800
+How to Get the GUID (Or Document ID)? (http://groupdocs.com/docs/pages/viewpage.action?pageId=1409575)
