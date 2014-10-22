@@ -1,6 +1,6 @@
 {
 	  "name": "groupdocs/groupdocs-viewer",
-	  "description": "With GroupDocs Viewer plugin for SilverStripe you can easily view PDF, Word, Excel and Powerpoint documents online with the GroupDocs Embedded Viewer tool, directly from within your SilverStripe powered website.",
+	  "description": "The GroupDocs.Viewer for Cloud plugin for SilverStripe helps you embed documents, complete with GroupDoc’s high-fidelity, online document viewer, into webpages to view documents of many different file formats. GroupDocs.Viewer is an online application that allows you to share, view, and read documents online using a browser. No new software installations are needed. View the most common file-formats (DOCX, PDF, PPYX, XLS) and share files easily with your colleagues from your desk!",
 	  "type": "silverstripe-module",
 	  "homepage": "http://github.com/groupdocs/silverstripe-groupdocs-viewer",
 	  "keywords": ["silverstripe", "groupdocsviewer"],
